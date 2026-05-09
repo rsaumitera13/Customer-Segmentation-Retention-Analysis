@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+xgboost
+plotly
+joblib
+streamlit-option-menu
+streamlit-lottie
+requests
