@@ -1,4 +1,4 @@
-# ⚡ STRATEGOS: Enterprise Retention OS v3.0
+# ⚡ STRATEGOS: Enterprise Retention OS v3.0    link -- https://customer-segmentation-retention-analysis-sumit.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32.0-FF4B4B)
